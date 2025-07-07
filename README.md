@@ -11,5 +11,5 @@
 `Flags` module definition
 =========================
 
-
+This module contains **flag icons**
 
